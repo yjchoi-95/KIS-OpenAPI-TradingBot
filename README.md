@@ -4,7 +4,7 @@
 
 ##  디렉토리 구조
 
-📂 KIS-OpenAPI-TradingBot
+📂 KIS-OpenAPI-TradingBot <br/>
 │  
 ├── 📂 .ipynb_checkpoints  
 │   └── *<파일명>*  
