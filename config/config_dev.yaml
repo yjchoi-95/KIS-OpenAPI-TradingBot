@@ -1,14 +1,12 @@
-# 개발계좌 - 이한나 81147375-01 accnt002
-
 # 홈페이지에서 API서비스 신청시 받은 Appkey, Appsecret 값 설정 
 # 실전투자(개발계)
-APP_KEY: "PSG0OjCxI4thgF7PkHIdYcu4Nt1B3j4o1IZN"
-APP_SECRET: "/3GWN4CuBOyHNHrjUmDSuSfDqz5bTKA3G0Gd8T7vkF3a0L6uTZ45F0TKl0XTJwmvm3KzSzRPtACOJOxPEqPWAr1mERmWUyfDdwOUr3Qa3v2C3vxzH5613ba5tIA7bbEfipJ5adiN6vvtzahnEAqAVT/rL5fGxQjN6C6I9e5Lqjiy4gpXXQQ="
+APP_KEY: "P***N"
+APP_SECRET: "/3G***QQ="
 
 # 계좌번호 앞 8자리 / 뒤 2자리
 # 실전투자
-CANO: "81147375" 
-ACNT_PRDT_CD: "01"
+CANO: "계좌번호 앞 8자리" 
+ACNT_PRDT_CD: "계좌번호 뒤 2자리"
 
 #실전투자
 URL_BASE: "http://210.107.75.78:9443"
