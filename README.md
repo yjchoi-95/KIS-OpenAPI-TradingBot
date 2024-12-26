@@ -54,34 +54,13 @@
 ├── 📂 .ipynb_checkpoints  
 ├── 📂 __pycache__  
 ├── 📂 config  
-│   └── config_vts.yaml  # API KEY, 계좌번호 등 개인정보  
-│  
+│   └── OpenAPI 인증 정보  
 ├── 📂 data  
-│   ├── deomesticindex.xlsx  
-│   ├── ds_domesticIndex_flaml.pkl  
-│   ├── ml_flaml_lgbm_domesticIndex.pkl  
-│   └── rs_domesticIndex.pkl  
-│  
+│   └── 수집/전처리 데이터 보관  
 ├── 📂 logs  
-│   └── ml_flaml_lgbm.log  
-│  
+│   └── 모델학습 로그 기록  
 ├── 📂 scripts  
-│   ├── 📂 origin  
-│   │   ├── 국내업종기간별시세_20241110.ipynb  
-│   │   ├── 국내업종기간별시세_20241120.ipynb  
-│   │   ├── 국내주식분봉조회_20241110.ipynb  
-│   │   ├── 금리종합_20241110.ipynb  
-│   │   ├── 자동매매샘플코드_20241212.ipynb  
-│   │   └── 종합시황공시_20241119.ipynb  
-│   ├── dxcai_domestic_index_trading_dag.ipynb  
-│   ├── dxcai_extract_DomesticIndex.ipynb  
-│   ├── dxcai_ml_DomesticIndex_lightgbm.ipynb  
-│   ├── dxcai_preproc_DomesticIndex_ml_lightgbm.ipynb  
-│   ├── utils.py  
-│   └── 자동매매샘플코드_20241212.ipynb  
-│  
+│   └── 데이터수집 ~ 매매까지의 Python Script  
 ├── 📂 tokens  
-│   ├── token.json  
-│   └── token_dev.json  
+│   └── OpenAPI에서 발급된 토큰 관리  
 └── 📄 README.md  
-
